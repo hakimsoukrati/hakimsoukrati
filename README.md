@@ -78,15 +78,15 @@ I love solving complex problems, exploring new technologies, and building meanin
 ### 📬 Connect with Me
 
 <div align="center">
-  <a href="mailto:hakim.skr@example.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail" /></a>
+  <a href="mailto:hakim.skr@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" alt="Gmail" /></a>
   <img width="25" />
-  <a href="https://wa.me/123456789"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" height="40" alt="WhatsApp" /></a>
+  <a href="https://wa.me/123456789"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" height="40" alt="WhatsApp" /></a>
   <img width="25" />
-  <a href="https://discord.com/users/yourdiscordid"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="40" alt="Discord" /></a>
+  <a href="https://discord.com/users/yourdiscordid"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" height="40" alt="Discord" /></a>
   <img width="25" />
-  <a href="https://www.linkedin.com/in/hakim-skr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hakim-skr"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" alt="LinkedIn" /></a>
   <img width="25" />
-  <a href="https://instagram.com/hakim.skr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram" /></a>
+  <a href="https://instagram.com/hakim.skr"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="40" alt="Instagram" /></a>
 </div>
 
 ---
