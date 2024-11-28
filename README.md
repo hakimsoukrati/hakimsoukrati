@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋! I'm Hakim Soukrati</h1>
+<h1 align="center">Hi 👋, I'm Hakim Soukrati</h1>
 <h3 align="center">A Passionate Mobile Apps Developer Specializing in Flutter and Firebase</h3>
 
 ---
 
 ### 🌟 About Me
 
-I'm a dedicated developer specializing in **mobile application development** using **Flutter** and **Firebase**. My expertise includes building scalable backends with **Node.js**, managing cloud functions, and leveraging tools like **Docker** for modern app solutions. I strive to create seamless user experiences with optimized performance and clean architectures.
+I'm a skilled **mobile apps developer** with a strong focus on **Flutter** and **Firebase**, passionate about creating seamless and efficient mobile experiences. I specialize in designing scalable architectures, managing backend services with **Node.js**, and leveraging **Google Cloud** and **Cloud Functions** for modern app solutions.
+
+I love solving complex problems, learning new technologies, and building impactful projects.
 
 ---
 
@@ -27,8 +29,6 @@ I'm a dedicated developer specializing in **mobile application development** usi
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
@@ -40,6 +40,8 @@ I'm a dedicated developer specializing in **mobile application development** usi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </div>
@@ -58,6 +60,8 @@ I'm a dedicated developer specializing in **mobile application development** usi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="Cloudflare" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
 </div>
 
 ---
@@ -65,10 +69,14 @@ I'm a dedicated developer specializing in **mobile application development** usi
 ### 📬 Connect with Me
 
 <div align="center">
-  <a href="mailto:hakim@example.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail" /></a>
+  <a href="mailto:hakim.skr@example.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail" /></a>
+  <img width="25" />
   <a href="https://wa.me/123456789"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" height="40" alt="WhatsApp" /></a>
+  <img width="25" />
   <a href="https://discord.com/users/yourdiscordid"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="40" alt="Discord" /></a>
+  <img width="25" />
   <a href="https://www.linkedin.com/in/hakim-skr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" /></a>
+  <img width="25" />
   <a href="https://instagram.com/hakim.skr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram" /></a>
 </div>
 
