@@ -7,12 +7,11 @@
 
 I'm a **mobile apps developer** with a strong focus on **Flutter** and **Firebase**, passionate about creating seamless and efficient mobile experiences. I specialize in:
 
-- **Building scalable architectures**  
-- **Backend services** with **Node.js**  
-- **Cloud Solutions** using **Google Cloud** and **Cloud Functions**  
-- Crafting clean, maintainable, and efficient code.
+- **Scalable architectures**
+- Backend services with **Node.js**
+- Leveraging **Google Cloud**, **Cloud Functions**, and modern tools to deliver impactful solutions.
 
-I enjoy solving complex challenges, staying updated with the latest technologies, and delivering impactful projects.
+I love solving complex problems, exploring new technologies, and building meaningful projects.
 
 ---
 
@@ -24,7 +23,6 @@ I enjoy solving complex challenges, staying updated with the latest technologies
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hakim-skr&theme=algolia" alt="GitHub streak stats" />
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hakim-skr&theme=algolia" alt="GitHub profile summary" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakim-skr&layout=compact&langs_count=8&theme=algolia" alt="Top languages" />
-    <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=hakim-skr&theme=algolia" alt="Contribution stats" />
   </a>
 </div>
 
@@ -51,8 +49,6 @@ I enjoy solving complex challenges, staying updated with the latest technologies
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </div>
 
@@ -71,7 +67,7 @@ I enjoy solving complex challenges, staying updated with the latest technologies
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
   <img width="25" />
-  <img src="https://img.icons8.com/color/48/google-cloud.png" height="40" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="Cloudflare" />
   <img width="25" />
 </div>
 
