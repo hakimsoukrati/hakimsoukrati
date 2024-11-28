@@ -14,6 +14,10 @@ I love solving complex problems, learning new technologies, and building impactf
 ### 📊 GitHub Statistics
 
 <div align="center">
+  <a href="https://github.com/hakim-skr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hakim-skr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hakim-skr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hakim-skr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakim-skr&layout=compact&langs_count=8&theme=algolia" alt="Top languages" />
 </div>
