@@ -5,13 +5,9 @@
 
 ### 🌟 About Me
 
-I'm a **mobile apps developer** with a strong focus on **Flutter** and **Firebase**, passionate about creating seamless and efficient mobile experiences. I specialize in:
+I'm a skilled **mobile apps developer** with a strong focus on **Flutter** and **Firebase**, passionate about creating seamless and efficient mobile experiences. I specialize in designing scalable architectures, managing backend services with **Node.js**, and leveraging **Google Cloud** and **Cloud Functions** for modern app solutions.
 
-- **Scalable architectures**
-- Backend services with **Node.js**
-- Leveraging **Google Cloud**, **Cloud Functions**, and modern tools to deliver impactful solutions.
-
-I love solving complex problems, exploring new technologies, and building meaningful projects.
+I love solving complex problems, learning new technologies, and building impactful projects.
 
 ---
 
@@ -19,7 +15,7 @@ I love solving complex problems, exploring new technologies, and building meanin
 
 <div align="center">
   <a href="https://github.com/hakim-skr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hakim-skr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hakim-skr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hakim-skr&theme=algolia" alt="GitHub streak stats" />
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hakim-skr&theme=algolia" alt="GitHub profile summary" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakim-skr&layout=compact&langs_count=8&theme=algolia" alt="Top languages" />
@@ -62,8 +58,6 @@ I love solving complex problems, exploring new technologies, and building meanin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
   <img width="25" />
