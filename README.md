@@ -14,11 +14,11 @@ I love solving complex problems, learning new technologies, and building impactf
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/hakim-skr">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hakim-skr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hakim-skr&theme=algolia" alt="GitHub streak stats" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hakim-skr&theme=algolia" alt="GitHub profile summary" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakim-skr&layout=compact&langs_count=8&theme=algolia" alt="Top languages" />
+  <a href="https://github.com/hakim-skr" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hakim-skr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" style="flex: 1 1 calc(50% - 20px);" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hakim-skr&theme=algolia" alt="GitHub streak stats" style="flex: 1 1 calc(50% - 20px);" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hakim-skr&theme=algolia" alt="GitHub profile summary" style="flex: 1 1 calc(50% - 20px);" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakim-skr&layout=compact&langs_count=8&theme=algolia" alt="Top languages" style="flex: 1 1 calc(50% - 20px);" />
   </a>
 </div>
 
