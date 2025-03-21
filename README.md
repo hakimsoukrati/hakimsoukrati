@@ -14,11 +14,11 @@ I love solving complex problems, learning new technologies, and building impactf
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/hakim-skr" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hakim-skr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" style="flex: 1 1 calc(50% - 20px);" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hakim-skr&theme=algolia" alt="GitHub streak stats" style="flex: 1 1 calc(50% - 20px);" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hakim-skr&theme=algolia" alt="GitHub profile summary" style="flex: 1 1 calc(50% - 20px);" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakim-skr&layout=compact&langs_count=8&theme=algolia" alt="Top languages" style="flex: 1 1 calc(50% - 20px);" />
+  <a href="https://github.com/hakimsoukrati" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hakimsoukrati&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" style="flex: 1 1 calc(50% - 20px);" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hakimsoukrati&theme=algolia" alt="GitHub streak stats" style="flex: 1 1 calc(50% - 20px);" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hakimsoukrati&theme=algolia" alt="GitHub profile summary" style="flex: 1 1 calc(50% - 20px);" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakimsoukrati&layout=compact&langs_count=8&theme=algolia" alt="Top languages" style="flex: 1 1 calc(50% - 20px);" />
   </a>
 </div>
 
@@ -70,15 +70,15 @@ I love solving complex problems, learning new technologies, and building impactf
 ### 📬 Connect with Me
 
 <div align="center">
-  <a href="mailto:hakim.skr@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" alt="Gmail" /></a>
+  <a href="mailto:hakim.soukrati@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" alt="Gmail" /></a>
   <img width="25" />
   <a href="https://wa.me/123456789"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" height="40" alt="WhatsApp" /></a>
   <img width="25" />
-  <a href="https://discord.com/users/yourdiscordid"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" height="40" alt="Discord" /></a>
+  <a href="https://discord.com/users/hakim_skr"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" height="40" alt="Discord" /></a>
   <img width="25" />
-  <a href="https://www.linkedin.com/in/hakim-skr"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hakimsoukrati"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" alt="LinkedIn" /></a>
   <img width="25" />
-  <a href="https://instagram.com/hakim.skr"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="40" alt="Instagram" /></a>
+  <a href="https://instagram.com/hakim_skr"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="40" alt="Instagram" /></a>
 </div>
 
 ---
